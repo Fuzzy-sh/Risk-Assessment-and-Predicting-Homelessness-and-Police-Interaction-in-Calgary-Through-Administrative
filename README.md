@@ -1,7 +1,5 @@
 # Machine-Learning-Risk-Estimation-and-Prediction-of-Homelessness-and-Police-interaction
-Machine Learning Risk Estimation and Prediction of Homelessness and Police interaction for individuals living in Calgary diagnosed with mental illness using Administrative Data
-
-
+The Effect of Epidemiological Cohort Creation on the Machine Learning Prediction of Homelessness and Police Interaction Outcomes Using Administrative Health Care Data
 <p>
   Background: Mental illness can lead to adverse outcomes such as homelessness and police
 16 interaction and understanding how the events leading up to these adverse outcomes is important.
