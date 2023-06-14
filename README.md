@@ -1,7 +1,8 @@
-# Machine-Learning-Risk-Estimation-and-Prediction-of-Homelessness-and-Police-interaction
-The Effect of Epidemiological Cohort Creation on the Machine Learning Prediction of Homelessness and Police Interaction Outcomes Using Administrative Health Care Data
+
+# The Effect of Epidemiological Cohort Creation on the Machine Learning Prediction of Homelessness and Police Interaction Outcomes Using Administrative Health Care Data
 <p>
-  Background: Mental illness can lead to adverse outcomes such as homelessness and police
+  # Background: 
+  Mental illness can lead to adverse outcomes such as homelessness and police
 16 interaction and understanding how the events leading up to these adverse outcomes is important.
 17 Predictive models may help identify individuals at risk of such adverse outcomes. Using fixed
 18 observation window cohort with logistic regression (LR) or machine learning (ML) models can result
